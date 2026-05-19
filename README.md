@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git Repository.
-Author - Salman Iman
+Author - Salman Imtiaz
